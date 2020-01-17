@@ -1,4 +1,4 @@
-# DataAnalyticsArticles
+# Data Analytics Resources
 Excellent resources relating to data analytics
 
 
