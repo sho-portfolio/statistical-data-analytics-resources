@@ -13,3 +13,8 @@ Excellent resources relating to data analytics
 ## quant trading strategy walk through (part 3 in the most interesting)
 - https://www.learndatasci.com/tutorials/python-finance-part-3-moving-average-trading-strategy/
 - discussion on different types of moving average (EMA vs. SMA)
+
+
+
+## to check out later
+- https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/
