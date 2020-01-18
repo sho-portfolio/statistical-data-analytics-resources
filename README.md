@@ -18,3 +18,5 @@ Excellent resources relating to data analytics
 
 ## to check out later
 - https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/
+- https://www.researchgate.net/post/Can_anyone_help_with_a_correlation_coefficient_between_two_binary_variables
+- [discussion on different types of correlation pertaining to a boolean only dataset]
