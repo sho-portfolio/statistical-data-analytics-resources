@@ -2,7 +2,7 @@
 Excellent resources relating to data analytics
 
 
-## discussion on different types of analytics (lexicon and topology)
+## discussion on different types of forecasting analytics (lexicon and topology)
 - https://hbr.org/1971/07/how-to-choose-the-right-forecasting-technique
 - discussion on types of basic forcasting techniques:
   - qaualitative (delphi method, market research, panel consensus, visionary forecast, historical analogy)
