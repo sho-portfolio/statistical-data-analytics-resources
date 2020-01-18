@@ -37,6 +37,10 @@ Excellent resources relating to data analytics
 - https://en.wikipedia.org/wiki/Contingency_table
 - [discusses: phi, cramer V, Tetrachoric (polychoric is for more than 2 variables) etc.
 
+## how to interpret the results of a phi coefficient calculation
+- https://www.statisticshowto.datasciencecentral.com/phi-coefficient-mean-square-contingency-coefficient/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107969/
+
 ## to check out later
 
 - [description pending]
