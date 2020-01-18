@@ -26,6 +26,10 @@ Excellent resources relating to data analytics
 - [point biserial correlation is an estimate of the cherence between a dichotomous and continuous variable]
 
 
+## types of correlation and which one to use based on your variable (data) types of X & Y
+- https://www.andrews.edu/~calkins/math/edrm611/edrm13.htm
+- [to be confirmed but read: nominal=dichotomous, quantitative=continuos, ordinal=ranked?)
+
 ## to check out later
 
 - [description pending]
