@@ -17,6 +17,11 @@ Excellent resources relating to data analytics
 
 
 ## to check out later
+- [a worked example of time series analysis for stock data and code showing how to download stick prices from google]
 - https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/
-- https://www.researchgate.net/post/Can_anyone_help_with_a_correlation_coefficient_between_two_binary_variables
+
 - [discussion on different types of correlation pertaining to a boolean only dataset]
+- https://www.researchgate.net/post/Can_anyone_help_with_a_correlation_coefficient_between_two_binary_variables
+
+- [discussion on the significance of p-value or correlation with a great example at the end]
+- http://www.eecs.qmul.ac.uk/~norman/blog_articles/p_values.pdf
