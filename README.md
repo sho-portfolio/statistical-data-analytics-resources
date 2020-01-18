@@ -15,11 +15,13 @@ Excellent resources relating to data analytics
 - [discussion on different types of moving average (EMA vs. SMA)]
 - [a worked example of time series analysis for stock data and code showing how to download stick prices from google]
 
-## phi coefficient (correlation between 2 dichotomous (binary) variables)
+## phi coefficient (correlation between 2 dichotomous (e.g. boolean) variables)
 - https://www.slideshare.net/plummer48/what-is-a-phi-coefficient
 - [a simple worked example on how to compute the phi coefficient]
 
-
+## point biserial correlation (correlation between a dichotomous and a continuous variable)
+- https://www.slideshare.net/plummer48/null-hypothesis-for-point-biserial-39817338
+- [point biserial correlation is a value that that makes it possible to statistically test the relationship between a dichotomous and continuous variable]
 
 
 ## to check out later
