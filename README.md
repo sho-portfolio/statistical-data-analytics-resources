@@ -15,6 +15,12 @@ Excellent resources relating to data analytics
 - [discussion on different types of moving average (EMA vs. SMA)]
 - [a worked example of time series analysis for stock data and code showing how to download stick prices from google]
 
+## phi coefficient (correlation between 2 dichotomous (binary) variables)
+- https://www.slideshare.net/plummer48/what-is-a-phi-coefficient
+- [a simple worked example on how to compute the phi coefficient]
+
+
+
 
 ## to check out later
 
@@ -27,3 +33,5 @@ Excellent resources relating to data analytics
 - [discussion on the significance of p-value or correlation with a great example at the end]
 - [provides an argument against the relaiance of p-value as an indicator of statistical significance]
 - http://www.eecs.qmul.ac.uk/~norman/blog_articles/p_values.pdf
+
+- https://www.slideshare.net/xianglainerut/tetrachoric-correlation-coefficient?next_slideshow=1
