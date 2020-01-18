@@ -25,4 +25,5 @@ Excellent resources relating to data analytics
 - https://www.researchgate.net/post/Can_anyone_help_with_a_correlation_coefficient_between_two_binary_variables
 
 - [discussion on the significance of p-value or correlation with a great example at the end]
+- [provides an argument against the relaiance of p-value as an indicator of statistical significance]
 - http://www.eecs.qmul.ac.uk/~norman/blog_articles/p_values.pdf
