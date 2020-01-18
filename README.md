@@ -29,6 +29,8 @@ Excellent resources relating to data analytics
 ## types of correlation and which one to use based on your variable (data) types of X & Y
 - https://www.andrews.edu/~calkins/math/edrm611/edrm13.htm
 - [to be confirmed but read: nominal=dichotomous, quantitative=continuos, ordinal=ranked?)
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107969/
+- [another interesting look at the different types of corelation as well as how different studies have ranked/categorized the statistical significance of each]
 
 ## to check out later
 
