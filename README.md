@@ -32,6 +32,11 @@ Excellent resources relating to data analytics
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107969/
 - [another interesting look at the different types of corelation as well as how different studies have ranked/categorized the statistical significance of each]
 
+
+## types of correlation (contingency table) for nominal / dichotomous data
+- https://en.wikipedia.org/wiki/Contingency_table
+- [discusses: phi, cramer V, Tetrachoric (polychoric is for more than 2 variables) etc.
+
 ## to check out later
 
 - [description pending]
