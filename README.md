@@ -21,7 +21,9 @@ Excellent resources relating to data analytics
 
 ## point biserial correlation (correlation between a dichotomous and a continuous variable)
 - https://www.slideshare.net/plummer48/null-hypothesis-for-point-biserial-39817338
+- https://www.slideshare.net/plummer48/point-biserial-correlation?next_slideshow=1
 - [point biserial correlation is a value that that makes it possible to statistically test the relationship between a dichotomous and continuous variable]
+- [point biserial correlation is an estimate of the cherence between a dichotomous and continuous variable]
 
 
 ## to check out later
