@@ -58,3 +58,6 @@ Excellent resources relating to data analytics
 - http://www.eecs.qmul.ac.uk/~norman/blog_articles/p_values.pdf
 
 - https://www.slideshare.net/xianglainerut/tetrachoric-correlation-coefficient?next_slideshow=1
+
+- [A beginner’s guide to interpreting odds ratios, confidence intervals and p-values]
+- https://www.students4bestevidence.net/blog/2013/08/13/a-beginners-guide-to-interpreting-odds-ratios-confidence-intervals-and-p-values-the-nuts-and-bolts-20-minute-tutorial/
