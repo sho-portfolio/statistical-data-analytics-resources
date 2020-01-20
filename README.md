@@ -48,6 +48,10 @@ Excellent resources relating to data analytics
 ## how to compute odds-ratio (OR) & confidence-intervals (CI)
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/
 
+## calculator for computing odds-ratio (OR) and confidence-interval (CI)
+- https://select-statistics.co.uk/calculators/confidence-interval-calculator-odds-ratio/
+
+
 ## to check out later
 
 - [description pending]
