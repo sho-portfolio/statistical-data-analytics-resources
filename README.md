@@ -43,7 +43,7 @@ Excellent resources relating to data analytics
 
 ## a disctionary of statistcal terms
 - https://stattrek.com/statistics/dictionary.aspx
-- i.e. select 'marginal distribution' from the drop down - the description helped me understand the following for the 'fastng' dataset phi-coefficient: "The value of Phi not only depends on the degree of association between 2 caracteristics, but also on the degree of symmetry of the marginal distributions. If marginal distributions are asymmetric (as is here the case for fast), then Phi is diminished."
+- i.e. select 'marginal distribution' from the drop down - the description helped me understand the following statement related to the 'fastng' dataset: "The value of Phi not only depends on the degree of association between 2 caracteristics, but also on the degree of symmetry of the marginal distributions. If marginal distributions are asymmetric (as is here the case for fast), then Phi is diminished."
 
 ## to check out later
 
