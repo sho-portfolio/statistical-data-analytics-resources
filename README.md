@@ -68,3 +68,6 @@ Excellent resources relating to data analytics
 
 - [A beginner’s guide to interpreting odds ratios, confidence intervals and p-values]
 - https://www.students4bestevidence.net/blog/2013/08/13/a-beginners-guide-to-interpreting-odds-ratios-confidence-intervals-and-p-values-the-nuts-and-bolts-20-minute-tutorial/
+
+- [a calcultors that computes a bunch of stuff for a 2x2 contingency table that I quite dont yet undersand]
+- http://vassarstats.net/odds2x2.html
