@@ -45,6 +45,9 @@ Excellent resources relating to data analytics
 - https://stattrek.com/statistics/dictionary.aspx
 - i.e. select 'marginal distribution' from the drop down - the description helped me understand the following statement related to the 'fastng' dataset: "The value of Phi not only depends on the degree of association between 2 caracteristics, but also on the degree of symmetry of the marginal distributions. If marginal distributions are asymmetric (as is here the case for fast), then Phi is diminished."
 
+## how to compute odds-ratio (OR) & confidence-intervals (CI)
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/
+
 ## to check out later
 
 - [description pending]
