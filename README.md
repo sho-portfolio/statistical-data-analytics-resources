@@ -1,4 +1,4 @@
-# Data Analytics Resources
+# Statistical Data Analytics Resources
 Excellent resources relating to statistical data analytics (primarily correlation analysis)
 
 
