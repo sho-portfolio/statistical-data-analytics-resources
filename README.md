@@ -1,5 +1,5 @@
 # Data Analytics Resources
-Excellent resources relating to data analytics
+Excellent resources relating to statistical data analytics (primarily correlation analysis)
 
 
 ## discussion on different types of forecasting analytics (lexicon and topology)
