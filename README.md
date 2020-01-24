@@ -9,7 +9,6 @@ Excellent resources relating to statistical data analytics (primarily correlatio
   - time-series & projection (moving average, exponential smoothing, box-jenkins, X-11, trend projections)
   - casual methods (regression model, econometric, intention-to-buy & anticipation surveys, input-output  model, economic input-output model, diffusion index, lading indicator, life-cycle analysis)
 
-
 ## quant trading strategy walk through (part 3 in the most interesting)
 - https://www.learndatasci.com/tutorials/python-finance-part-3-moving-average-trading-strategy/
 - [discussion on different types of moving average (EMA vs. SMA)]
@@ -25,13 +24,11 @@ Excellent resources relating to statistical data analytics (primarily correlatio
 - [point biserial correlation is a value that that makes it possible to statistically test the relationship between a dichotomous and continuous variable]
 - [point biserial correlation is an estimate of the cherence between a dichotomous and continuous variable]
 
-
 ## types of correlation and which one to use based on your variable (data) types of X & Y
 - https://www.andrews.edu/~calkins/math/edrm611/edrm13.htm
 - [to be confirmed but read: nominal=dichotomous, quantitative=continuos, ordinal=ranked?)
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107969/
 - [another interesting look at the different types of corelation as well as how different studies have ranked/categorized the statistical significance of each]
-
 
 ## types of correlation (contingency table) for nominal / dichotomous data
 - https://en.wikipedia.org/wiki/Contingency_table
@@ -41,12 +38,15 @@ Excellent resources relating to statistical data analytics (primarily correlatio
 - https://www.statisticshowto.datasciencecentral.com/phi-coefficient-mean-square-contingency-coefficient/
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107969/
 
-## a disctionary of statistcal terms
+## a dictionary of statistcal terms
 - https://stattrek.com/statistics/dictionary.aspx
 - i.e. select 'marginal distribution' from the drop down - the description helped me understand the following statement related to the 'fastng' dataset: "The value of Phi not only depends on the degree of association between 2 caracteristics, but also on the degree of symmetry of the marginal distributions. If marginal distributions are asymmetric (as is here the case for fast), then Phi is diminished."
 
 ## how to compute odds-ratio (OR) & confidence-intervals (CI)
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/
+
+## a clear worked example of how to compute OR, RR & CI
+http://sphweb.bumc.bu.edu/otlt/MPH-Modules/PH717-QuantCore/PH717_ComparingFrequencies/PH717_ComparingFrequencies8.html
 
 ## calculator for computing odds-ratio (OR) and confidence-interval (CI)
 - https://select-statistics.co.uk/calculators/confidence-interval-calculator-odds-ratio/
