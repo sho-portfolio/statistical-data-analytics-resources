@@ -51,6 +51,8 @@ http://sphweb.bumc.bu.edu/otlt/MPH-Modules/PH717-QuantCore/PH717_ComparingFreque
 ## calculator for computing odds-ratio (OR) and confidence-interval (CI)
 - https://select-statistics.co.uk/calculators/confidence-interval-calculator-odds-ratio/
 
+## a lookup table (see section B) giving z-scores aka critical-values for a given confidence-level (used in the computation of confidence-intervals (CI)
+- https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/find-critical-values/
 
 ## to check out later
 
