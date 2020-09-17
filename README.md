@@ -29,6 +29,7 @@ Excellent resources relating to statistical data analytics (primarily correlatio
 - [to be confirmed but read: nominal=dichotomous, quantitative=continuos, ordinal=ranked?)
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107969/
 - [another interesting look at the different types of corelation as well as how different studies have ranked/categorized the statistical significance of each]
+- https://machinelearningmastery.com/how-to-use-correlation-to-understand-the-relationship-between-variables/
 
 ## types of correlation (contingency table) for nominal / dichotomous data
 - https://en.wikipedia.org/wiki/Contingency_table
