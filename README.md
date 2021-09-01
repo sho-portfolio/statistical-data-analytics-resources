@@ -55,6 +55,10 @@ http://sphweb.bumc.bu.edu/otlt/MPH-Modules/PH717-QuantCore/PH717_ComparingFreque
 ## a lookup table (see section B) giving z-scores aka critical-values for a given confidence-level (used in the computation of confidence-intervals (CI)
 - https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/find-critical-values/
 
+## a very simple way to visualize correlation data using python
+- https://link.medium.com/hqZ4mBG9bjb
+
+
 ## to check out later
 
 - [description pending]
